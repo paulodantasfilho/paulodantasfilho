@@ -19,5 +19,5 @@ Originally trained as a Civil Engineer, I believe in the power of data analytics
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br/>
 
-"A disciplina te levará a lugares que a motivação não alcança." :muscle:
+"Discipline will take you places that motivation doesn't reach." :muscle:
 
