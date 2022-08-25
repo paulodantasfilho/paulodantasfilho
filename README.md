@@ -1,4 +1,4 @@
-### Olá! Eu sou o Paulo Dantas Filho 👋
+### Hello! I'm Paulo Dantas Filho 👋
 
 I'm a Brazilian Civil Engineer in love Data Analytics, Machine Learning, Deep Learning and all kinds of AI applications.
 
